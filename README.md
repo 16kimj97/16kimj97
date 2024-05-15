@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a full-stack web developer with a passion for music, gaming, and technology. My diverse background in hospitality, finance, and software engineering gives me a unique perspective on problem-solving and creativity. I'm always eager to learn and grow, both professionally and personally.
+I'm a full-stack web developer with a passion for music, gaming, and technology. My diverse background in hospitality, finance, and software engineering gives me a unique perspective on problem-solving and creativity. I'm always eager to learn and grow.
 
 ## Location & Contact
 
