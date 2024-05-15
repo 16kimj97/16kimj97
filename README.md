@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Justin Kim! 👋
 
-<!--
-**16kimj97/16kimj97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a full-stack web developer with a passion for music, gaming, and technology. My diverse background in hospitality, finance, and software engineering gives me a unique perspective on problem-solving and creativity. I'm always eager to learn and grow, both professionally and personally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Location & Contact
+
+- **Location:** Millbrae, California
+- **Email:** 16kimj97@gmail.com
+- **Portfolio:** [16kimj97.github.io](https://16kimj97.github.io/)
+
+## Pinned Projects
+
+Here are some of my main projects:
+
+- [Grailed Clone](https://grailed-project.onrender.com/)
+- [SoundCloud Clone](https://soundcloud-project-m0ku.onrender.com/)
+
+## Technology Stack & Tools
+
+I work with a variety of technologies and tools, including:
+
+- **Frontend:** React, 
+- **Backend:** Node.js, Flask, 
+- **Database:** PostgreSQL, 
+- **DevOps:** Docker, AWS
